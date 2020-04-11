@@ -1,0 +1,1 @@
+javascript:(function()%7Bwhile%20(true)%20%7B%0Awindow.open('https%3A%2F%2Fthenypost.files.wordpress.com%2F2017%2F05%2Fshutterstock_633482957.jpg%3Fquality%3D80%26strip%3Dall%26w%3D618%26h%3D410%26crop%3D1')%0A%7D%7D)()%3B
